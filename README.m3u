@@ -1,7 +1,4 @@
-# Donation
 
-#EXTINF:1, Donation
-plugin://plugin.video.youtube/?action=play_video&videoid=
 
 #EXTINF:1, PayPal Donation Account : dpanos8@gmail.com
 plugin://plugin.video.youtube/?action=play_video&videoid=
