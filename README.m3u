@@ -2,3 +2,5 @@
 #EXTINF:1, [COLOR blue]PayPal dpanos8@gmail.com[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
+#EXTINF:1, [COLOR blue]Contact Us dpanos8@gmail.com[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
